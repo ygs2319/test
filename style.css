@@ -8,22 +8,22 @@ body {
   width: 600px;
   margin: 0 auto;
   padding: 20px;
-  transform: rotate(45deg);
+  transform: rotate(-45deg);
 }
 
 .file-upload-btn {
   width: 100%;
   margin: 0;
   color: #fff;
-  background: #1FB264;
+  background: #1fb2ab;
   border: none;
   padding: 10px;
   border-radius: 50px;
-  border-bottom: 4px solid #15824B;
+  border-bottom: 4px solid #1fb2ab;
   transition: all .2s ease;
   outline: none;
   text-transform: uppercase;
-  font-weight: 700;
+  font-weight: 800;
 }
 
 .file-upload-content {
@@ -71,8 +71,8 @@ body {
 }
 
 .file-upload-image {
-  max-height: 200px;
-  max-width: 200px;
+  max-height: 300px;
+  max-width: 300px;
   margin: auto;
   padding: 20px;
 }
